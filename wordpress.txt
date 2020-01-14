@@ -1,0 +1,7 @@
+query-monitor/query-monitor.php
+all-in-one-wp-security-and-firewall/wp-security.php 
+cyr3lat/cyr-to-lat.php 
+imsanity/imsanity.php
+kama-spamblock/kama-spamblock.php
+woocommerce/woocommerce.php 
+wordpress-seo/wp-seo.php
